@@ -1,3 +1,3 @@
-bass\\bass.exe strider_fonte.asm
-
+bass.exe strider.asm
 pause
+
