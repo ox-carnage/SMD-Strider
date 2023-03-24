@@ -33,7 +33,7 @@ if (CONFIG_LANGUAGE == ENGLISH) {
 
 if (CONFIG_LANGUAGE == PORTUGUESE) {
 
-    define   CONFIG_ROM_NAME("STRIDER BR           ")
+    define   CONFIG_ROM_NAME("STRIDER HIRYU BR           ")
     define   CONFIG_ROM_REGION("UE")
 
     
