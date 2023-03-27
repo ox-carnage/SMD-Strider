@@ -3,7 +3,7 @@ origin $00097626
 credits("CHIEF PROGRAMMER    ")
 credits("PROGRAM COORDINATOR            ")
 credits("                       YAMA1")
-credits(" ASSISTANT PROGRAMMER    ")
+credits(" ASSISTANT PROGRAMMER1    ")
 credits("                      ")
 credits("                           MIZORAN")
 credits("CHIEF DESIGNER  ")
